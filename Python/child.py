@@ -1,5 +1,6 @@
 """
     This is the child process
+    Environment: Python 3.8.7
 """
 from multiprocessing import shared_memory
 import numpy as np
